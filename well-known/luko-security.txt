@@ -1,0 +1,8 @@
+# Please contact our Allianz Direct Information Security team if you would like to report a security issue
+
+Contact: mailto:informationsecurity@allianzdirect.de 
+Contact: mailto:security@allianz.com
+Expires: 2025-12-31T23:00:00.000Z
+Encryption: https://allianzdirect.com/dam/documents/public-key.asc
+Preferred-Languages: en, de, es
+Hiring: https://careers.allianz.com/
